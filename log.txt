@@ -1,0 +1,1 @@
+Requirement already satisfied: swig in /home/ga_aiot/anaconda3/envs/finrl/lib/python3.8/site-packages (4.1.1)
