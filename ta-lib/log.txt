@@ -1,0 +1,15 @@
+Collecting Ta-Lib
+  Using cached TA-Lib-0.4.25.tar.gz (271 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Requirement already satisfied: numpy in /home/ga_aiot/anaconda3/envs/finrl/lib/python3.8/site-packages (from Ta-Lib) (1.24.2)
+Building wheels for collected packages: Ta-Lib
+  Building wheel for Ta-Lib (pyproject.toml): started
+  Building wheel for Ta-Lib (pyproject.toml): finished with status 'error'
+Failed to build Ta-Lib

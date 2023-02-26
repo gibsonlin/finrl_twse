@@ -1,0 +1,9 @@
+['macd',
+ 'boll_ub',
+ 'boll_lb',
+ 'rsi_7',
+ 'rsi_14',
+ 'cci_14',
+ 'dx_30',
+ 'close_7_sma',
+ 'close_14_sma']

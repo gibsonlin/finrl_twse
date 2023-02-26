@@ -117,6 +117,7 @@ class FeatureEngineer:
         df = data.copy()
         df = df.sort_values(["date", "tic"], ignore_index=True)
         df.index = df.date.factorize()[0]
+        #df.index = df.date.factorize()
         merged_closes = df.pivot_table(index="date", columns="tic", values="close")
         merged_closes = merged_closes.dropna(axis=1)
         tics = merged_closes.columns
